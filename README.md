@@ -23,7 +23,7 @@ Here are some screenshots showcasing the application:
 
 ## Live Demo
 
-You can view a live demo of the application [here]().
+You can view a live demo of the application [here](https://sricharantuduru.github.io/Wikipedia-Search-Application/).
 
 
 ### Prerequisites
